@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "13huzmb8Nog=",
+  "dgSpecHash": "0jW4BOVQWY0=",
   "success": true,
-  "projectFilePath": "C:\\Apps\\test-app\\dotNet-SimpleJobScheduler\\dotNet-SimpleJobScheduler.csproj",
+  "projectFilePath": "C:\\Apps\\newAppJobSchedulerTest\\0005-aws-transform-dotnet-apptest\\dotNet-SimpleJobScheduler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jose.c.carvalheira\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
   ],

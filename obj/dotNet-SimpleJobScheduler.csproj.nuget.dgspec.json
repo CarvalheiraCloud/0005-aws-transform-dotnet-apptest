@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Apps\\test-app\\dotNet-SimpleJobScheduler\\dotNet-SimpleJobScheduler.csproj": {}
+    "C:\\Apps\\newAppJobSchedulerTest\\0005-aws-transform-dotnet-apptest\\dotNet-SimpleJobScheduler.csproj": {}
   },
   "projects": {
-    "C:\\Apps\\test-app\\dotNet-SimpleJobScheduler\\dotNet-SimpleJobScheduler.csproj": {
+    "C:\\Apps\\newAppJobSchedulerTest\\0005-aws-transform-dotnet-apptest\\dotNet-SimpleJobScheduler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Apps\\test-app\\dotNet-SimpleJobScheduler\\dotNet-SimpleJobScheduler.csproj",
+        "projectUniqueName": "C:\\Apps\\newAppJobSchedulerTest\\0005-aws-transform-dotnet-apptest\\dotNet-SimpleJobScheduler.csproj",
         "projectName": "dotNet-SimpleJobScheduler",
-        "projectPath": "C:\\Apps\\test-app\\dotNet-SimpleJobScheduler\\dotNet-SimpleJobScheduler.csproj",
+        "projectPath": "C:\\Apps\\newAppJobSchedulerTest\\0005-aws-transform-dotnet-apptest\\dotNet-SimpleJobScheduler.csproj",
         "packagesPath": "C:\\Users\\jose.c.carvalheira\\.nuget\\packages\\",
-        "outputPath": "C:\\Apps\\test-app\\dotNet-SimpleJobScheduler\\obj\\",
+        "outputPath": "C:\\Apps\\newAppJobSchedulerTest\\0005-aws-transform-dotnet-apptest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jose.c.carvalheira\\AppData\\Roaming\\NuGet\\NuGet.Config"
