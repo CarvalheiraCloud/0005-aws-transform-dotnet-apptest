@@ -1,0 +1,6 @@
+C:\Apps\test-app\dotNet-SimpleJobScheduler\bin\Release\net10.0\publish\dotNet-SimpleJobScheduler.exe
+C:\Apps\test-app\dotNet-SimpleJobScheduler\bin\Release\net10.0\publish\dotNet-SimpleJobScheduler.dll
+C:\Apps\test-app\dotNet-SimpleJobScheduler\bin\Release\net10.0\publish\dotNet-SimpleJobScheduler.deps.json
+C:\Apps\test-app\dotNet-SimpleJobScheduler\bin\Release\net10.0\publish\dotNet-SimpleJobScheduler.runtimeconfig.json
+C:\Apps\test-app\dotNet-SimpleJobScheduler\bin\Release\net10.0\publish\dotNet-SimpleJobScheduler.pdb
+C:\Apps\test-app\dotNet-SimpleJobScheduler\bin\Release\net10.0\publish\Newtonsoft.Json.dll
