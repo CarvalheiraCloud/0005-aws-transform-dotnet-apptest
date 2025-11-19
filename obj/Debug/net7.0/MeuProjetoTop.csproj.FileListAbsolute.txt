@@ -1,0 +1,17 @@
+C:\Apps\new\MeuProjetoTop\bin\Debug\net7.0\MeuProjetoTop.exe
+C:\Apps\new\MeuProjetoTop\bin\Debug\net7.0\MeuProjetoTop.deps.json
+C:\Apps\new\MeuProjetoTop\bin\Debug\net7.0\MeuProjetoTop.runtimeconfig.json
+C:\Apps\new\MeuProjetoTop\bin\Debug\net7.0\MeuProjetoTop.dll
+C:\Apps\new\MeuProjetoTop\bin\Debug\net7.0\MeuProjetoTop.pdb
+C:\Apps\new\MeuProjetoTop\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Apps\new\MeuProjetoTop\obj\Debug\net7.0\MeuProjetoTop.csproj.AssemblyReference.cache
+C:\Apps\new\MeuProjetoTop\obj\Debug\net7.0\MeuProjetoTop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\new\MeuProjetoTop\obj\Debug\net7.0\MeuProjetoTop.AssemblyInfoInputs.cache
+C:\Apps\new\MeuProjetoTop\obj\Debug\net7.0\MeuProjetoTop.AssemblyInfo.cs
+C:\Apps\new\MeuProjetoTop\obj\Debug\net7.0\MeuProjetoTop.csproj.CoreCompileInputs.cache
+C:\Apps\new\MeuProjetoTop\obj\Debug\net7.0\MeuProjetoTop.csproj.CopyComplete
+C:\Apps\new\MeuProjetoTop\obj\Debug\net7.0\MeuProjetoTop.dll
+C:\Apps\new\MeuProjetoTop\obj\Debug\net7.0\refint\MeuProjetoTop.dll
+C:\Apps\new\MeuProjetoTop\obj\Debug\net7.0\MeuProjetoTop.pdb
+C:\Apps\new\MeuProjetoTop\obj\Debug\net7.0\MeuProjetoTop.genruntimeconfig.cache
+C:\Apps\new\MeuProjetoTop\obj\Debug\net7.0\ref\MeuProjetoTop.dll
